@@ -1,5 +1,5 @@
 # zoomzoomzang
-A Simple Image Zoom that doesn't require jQuery or any other library.
+A Simple Image Zoom that doesn't require jQuery or any other library.  
 Demo: [http://julienzmiro.com/case-studies/bunchofpixels.html](http://julienzmiro.com/case-studies/bunchofpixels.html)
 
 1) Import zoomzoomzang and optionally pass a background color for the overlay
